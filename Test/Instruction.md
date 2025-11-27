@@ -5,6 +5,7 @@
 3. Add necessary collumn using the following formula:
 
 Production cost = material cost + labour cost
+
 Revenue = sales unit * sales price
 
 4. Generate Quarter column
